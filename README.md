@@ -13,6 +13,7 @@ Repository ini berisi kumpulan kode dan jawaban tugas terkait mata kuliah/pelaja
 1. Clone repository ini ke komputer Anda:
    ```bash
    git clone https://github.com/erickpaulus/cpp-programming.git
+   ```
 2. Buka folder sesuai tugas atau kode yang diinginkan.
 3. Jalankan program C++ menggunakan compiler favorit Anda, misalnya g++:
 ```
