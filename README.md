@@ -1,6 +1,6 @@
 # Algoritma dan Pemrograman C++
 
-Repository ini berisi kumpulan kode dan jawaban tugas terkait mata kuliah/pelajaran **Algoritma dan Pemrograman** dengan menggunakan bahasa pemrograman **C++**. Setiap folder di dalam repository ini menyimpan solusi untuk berbagai persoalan algoritmik, mulai dari konsep dasar hingga topik yang lebih kompleks.
+Repository ini berisi kumpulan kode dan jawaban tugas terkait topik **Algoritma dan Pemrograman** dengan menggunakan bahasa pemrograman **C++**. Setiap folder di dalam repository ini menyimpan solusi untuk berbagai persoalan algoritmik, mulai dari konsep dasar hingga topik yang lebih kompleks.
 
 ## Isi Repository
 
