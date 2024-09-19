@@ -23,5 +23,4 @@ g++ namafile.cpp -o outputfile
 ```
 Selamat belajar dan semoga bermanfaat!
 
-
-2/2
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ferickpaulus%2F&label=VISITORS&countColor=%23263759)
