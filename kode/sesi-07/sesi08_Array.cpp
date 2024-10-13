@@ -10,6 +10,7 @@ main() {
     {
         cout << i << endl;
     }
+    cout << bil[9]; // perhatikan jika akses indeks lebih dari yang dideklarasikan
     getchar();
 
 }
