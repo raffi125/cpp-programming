@@ -25,7 +25,7 @@ Selamat belajar dan semoga bermanfaat!
 
 ## Bahan Ajar
 1. Basic : Varibel, Tipe Data, Konstanta, Operator, Struktur Kontrl, Array, String, Function, 
-2. Advance : Pointer, Struct, Array of Record, File, Object Oriented Programing, Collection
+2. Advance : Pointer, Struct, Array of Record, Record of Array, File, Object Oriented Programing, Collection
 
 ## Referensi tambahan
 1. https://www.geeksforgeeks.org/cpp-interview-questions/
