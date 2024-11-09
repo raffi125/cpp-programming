@@ -23,6 +23,18 @@ g++ namafile.cpp -o outputfile
 ```
 Selamat belajar dan semoga bermanfaat!
 
+## Referensi tambahan
+1. https://www.geeksforgeeks.org/cpp-interview-questions/
+2. https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-interview-questions
+3. https://www.javatpoint.com/cpp-interview-questions
+4. https://www.interviewbit.com/cpp-interview-questions/
+5. https://applied-science.tiu.edu.iq/information-technology//wp-content/uploads/2019/06/Programming-I-QB_Fall_2018-2019.pdf?
+
+## C++ Game Programming 
+1. https://www.geeksforgeeks.org/cpp-for-game-development/
+2. https://github.com/embeddedmz/16-Games
+3. https://www.instructables.com/C-Snake-Game-Simple/
+4. https://www.geeksforgeeks.org/snake-code-cpp/
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ferickpaulus%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ferickpaulus%2F&label=VISITORS&countColor=%23263759" /></a>
 
