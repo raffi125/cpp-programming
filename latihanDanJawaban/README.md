@@ -55,5 +55,7 @@ Gunakan format tanggal `YYYY-MM-DD` sebagai nama folder harian.
 - `catatan.md` *(opsional)*: Berisi penjelasan solusi, revisi, atau refleksi pembelajaran
 
 ### ✅ Contoh isi `waktu.txt`
+```
 soal-003: 19 menit
 soal-004: 16 menit
+```
