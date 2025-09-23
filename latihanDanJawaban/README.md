@@ -20,6 +20,7 @@ Dengan memperbanyak jam terbang, diharapkan kita dapat:
 Gunakan struktur dan penamaan yang **seragam** dan **terstandarisasi**.
 
 ### 📁 Struktur Repositori:
+```
 latihan-cpp-harian/
 ├── 2025-09-23/
 │ ├── soal-001.cpp
@@ -32,7 +33,7 @@ latihan-cpp-harian/
 │ ├── waktu.txt
 │ └── catatan.md
 └── ...
-
+```
 
 ### 📅 Format Nama Folder
 Gunakan format tanggal `YYYY-MM-DD` sebagai nama folder harian.
