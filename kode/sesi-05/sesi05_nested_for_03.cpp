@@ -13,10 +13,8 @@ int main() {
     
     int nilai = 0;
 
-    for (size_t baris  = 0; baris < 5 ; baris++)
-    {
-        for (size_t kolom = 0; kolom <= baris ; kolom++)
-        {
+    for (size_t baris  = 0; baris < 5 ; baris++){
+        for (size_t kolom = 0; kolom <= baris ; kolom++){
             cout <<  nilai << "\t";
             nilai++;
         }
