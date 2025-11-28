@@ -2,8 +2,10 @@
 #include <stdlib.h>
 using namespace std;
 int inputSuhuBadan(int jmlJam){
-    int suhu, totalSuhu;
-    for (int jam=1;jam<=jmlJam;jam++){
+    int suhu;
+    float totalSuhu = 0;
+
+    for (int jam = 1; jam <= jmlJam; jam++){
         cout << "masukan suhu badan ke " << jam <<" : " ;
         cin >> suhu;
         totalSuhu += suhu;
